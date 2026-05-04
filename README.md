@@ -1,6 +1,6 @@
-# The Immobilism Cascade — Replication Package
+#Replication Package
 
-This repository accompanies the master's research project *"Dados que constroem ou destroem sua estratégia de inteligência artificial"* (FGV-EAESP, MPGC, 2026)
+This repository accompanies the master's research project *PRONTIDÃO DE DADOS PARA IA (AI DATA READINESS): BARREIRAS E FACILITADORES NA PERCEPÇÃO DE GESTORES DE TI* (FGV-EAESP, MPGC, 2026)
 
 The repository contains anonymized data, analytical scripts and supporting documents that allow other researchers to reproduce the qualitative-quantitative triangulation reported in the manuscript and to inspect the methodological audit trail.
 
@@ -124,9 +124,9 @@ The dissertation, ethical documents (TCLE, Parecer, Instrumento) and the anonymi
 
 ## Português
 
-### Pacote de Replicação — A Cascata do Imobilismo
+### Pacote de Replicação — Dissertaçào
 
-Este repositório acompanha o trabalho aplicado de mestrado *"Dados que constroem ou destroem sua estratégia de inteligência artificial"* (FGV-EAESP, MPGC, 2026) 
+Este repositório acompanha o trabalho aplicado de mestrado *PRONTIDÃO DE DADOS PARA IA (AI DATA READINESS): BARREIRAS E FACILITADORES NA PERCEPÇÃO DE GESTORES DE TI* (FGV-EAESP, MPGC, 2026) 
 
 O repositório contém dados anonimizados, scripts analíticos e documentos de suporte que permitem a outros pesquisadores reproduzir a triangulação qualitativo-quantitativa relatada no manuscrito e inspecionar a trilha de auditoria metodológica.
 
