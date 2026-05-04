@@ -1,6 +1,6 @@
 # The Immobilism Cascade — Replication Package
 
-This repository accompanies the master's research project *"Dados que constroem ou destroem sua estratégia de inteligência artificial"* (FGV-EAESP, MPGC, 2026) and the manuscript *"The Immobilism Cascade How AI Initiatives Stall Between Pilot and Production"* under review at *MIS Quarterly Executive*.
+This repository accompanies the master's research project *"Dados que constroem ou destroem sua estratégia de inteligência artificial"* (FGV-EAESP, MPGC, 2026)
 
 The repository contains anonymized data, analytical scripts and supporting documents that allow other researchers to reproduce the qualitative-quantitative triangulation reported in the manuscript and to inspect the methodological audit trail.
 
@@ -13,13 +13,6 @@ The repository contains anonymized data, analytical scripts and supporting docum
 
 ---
 
-## Manuscript and Dissertation
-
-If you use materials from this repository, please cite
-
-> Banhe, R. and Francisco, E. de R. "The Immobilism Cascade How AI Initiatives Stall Between Pilot and Production." Manuscript under review at *MIS Quarterly Executive*, 2026.
-
-The full master's dissertation (in Portuguese) is included as `Romulo_Banhe_TA_Final_v6.pdf` and provides the complete theoretical framing, methodological detail and full discussion that the MISQE manuscript condenses.
 
 ---
 
@@ -133,7 +126,7 @@ The dissertation, ethical documents (TCLE, Parecer, Instrumento) and the anonymi
 
 ### Pacote de Replicação — A Cascata do Imobilismo
 
-Este repositório acompanha o trabalho aplicado de mestrado *"Dados que constroem ou destroem sua estratégia de inteligência artificial"* (FGV-EAESP, MPGC, 2026) e o manuscrito *"The Immobilism Cascade How AI Initiatives Stall Between Pilot and Production"*, em revisão na *MIS Quarterly Executive*.
+Este repositório acompanha o trabalho aplicado de mestrado *"Dados que constroem ou destroem sua estratégia de inteligência artificial"* (FGV-EAESP, MPGC, 2026) 
 
 O repositório contém dados anonimizados, scripts analíticos e documentos de suporte que permitem a outros pesquisadores reproduzir a triangulação qualitativo-quantitativa relatada no manuscrito e inspecionar a trilha de auditoria metodológica.
 
